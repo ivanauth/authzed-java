@@ -118,6 +118,8 @@ These examples are meant to be copied into your own project. They demonstrate th
 2. A valid authentication token
 3. Proper build configuration for your language
 
+The Kotlin and Scala examples are illustrative snippets and are not currently compiled or executed in CI.
+
 ## Getting Started
 
 For a complete guide on integrating SpiceDB with your application, see the [Protecting Your First App](https://authzed.com/docs/guides/first-app) guide.
